@@ -1,0 +1,2 @@
+bayoo-docx
+lxml
